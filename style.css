@@ -1,0 +1,86 @@
+html {
+    background-color: black;
+  }
+  img {
+    border: 5px solid #f0ebe4;
+    border-radius: 25px;
+    margin: 30px;
+  }
+  h1 {
+    color: #c4a945;
+    margin: 0px 0px 50px 30px;
+  }
+  header {
+    border: 2px solid darkred;
+    background-image: url(https://images.alphacoders.com/605/thumb-1920-605592.png);
+    background-color: #fff;
+    background-size: cover;
+  }
+  ul li {
+    font-size: bold;
+    margin: 10px;
+    background-color: #807b57;
+    padding: 10px 20px;
+    border: 1px solid red;
+    border-radius: 10px;
+    color: #bfa649;
+    list-style-type: none;
+    width: 150px;
+  }
+  ul li:hover {
+    background-color: red;
+    color: #bfa649;
+  }
+  
+  div {
+    background-size: cover;
+    background-image: url(	https://i.pinimg.com/originals/9f/2d/7c/9f2d7c8be5721c3a25ca988ffc5fb2b3.jpg);
+  
+  }
+  h2 {
+    color: #f0ecdd;
+  }
+  ol {
+    color: #f0ecdd;
+  }
+  th, td {
+    color: #f0ecdd;
+    padding: 15px;
+  }
+  footer {
+    color: #f0ecdd;
+    border: 5px solid red;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 20px;
+  }
+  ol,li {
+    background-color: #c48b8e;
+  }
+  hr {
+    border: 1px solid darkred;
+  }
+  th {
+    background-color: #895c91;
+  }
+  tr:nth-child(odd) {
+    background-color: #4b4982;
+  }
+  table {
+    font-size: 20px;
+    border-collapse: separate;
+    border-spacing: 2px;
+  }
+  table a {
+    color: #b35b5e;
+    text-decoration: none;
+    margin: 20px;
+    background-color: white;
+  }
+  
+  
+  
+  
+  
+  
+  
